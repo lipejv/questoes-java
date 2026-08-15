@@ -6,7 +6,7 @@ LINK DA QUESTÃO
 https://neps.academy/exercise/324
 */
 public class neps_3 {
-    void main()
+    public static void main(String[] args)
     {
         int coposQuebrados = 0;
         Scanner obj = new Scanner(System.in);

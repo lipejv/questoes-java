@@ -6,7 +6,7 @@ LINK DA QUESTÃO
 https://neps.academy/exercise/146
 */
 public class neps_4 {
-    void main()
+    public static void main(String[] args)
     {
         Scanner obj = new Scanner(System.in);
         int x = obj.nextInt();

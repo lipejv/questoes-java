@@ -7,7 +7,7 @@ https://neps.academy/exercise/144
 */
 
 public class neps_2 {
-    void main(){
+    public static void main(String[] args) {
         double pi = 3.1416;
         Scanner obj = new Scanner(System.in);
         int raio = obj.nextInt();
